@@ -14,6 +14,7 @@
         "node-red-dashboard": "^2.30.0",
         "node-red-node-cf-cloudant": "0.x",
         "node-red-node-openwhisk": "0.x",
+        "node-red-node-ui-table": "^0.3.11",
         "node-red-node-watson": "0.x",
         "node-red-nodes-cf-sqldb-dashdb": "0.x"
     },
